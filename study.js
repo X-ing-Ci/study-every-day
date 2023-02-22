@@ -24,6 +24,8 @@
 // @grant        GM_openInTab
 // @grant        GM_listValues
 // @grant        GM_xmlhttpRequest
+// @downloadURL  https://raw.githubusercontent.com/X-ing-Ci/study-every-day/main/study.js
+// @updateURL    https://raw.githubusercontent.com/X-ing-Ci/study-every-day/main/study.js
 // @noframes
 // ==/UserScript==
 
